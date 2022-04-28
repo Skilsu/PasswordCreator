@@ -65,7 +65,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private static String recRandom(int leftCharacters, String password, String availableCharacters) {
-
+        if(availableCharacters.length()==0)
+            return "";
         if (password == null){
             // password initialisation
             String newPassword = "";
