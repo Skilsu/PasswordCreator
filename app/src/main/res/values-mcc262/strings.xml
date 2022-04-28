@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Passwort Generator</string>
-    <string name="icon_view">TODO</string> />
+    <string name="icon_view">TODO</string>
+    <string name="capital_letters">Großbuchstaben</string>
+    <string name="lower_case_letters">Kleinbuchstaben</string>
+    <string name="numbers">Nummern</string>
+    <string name="symbols">Symbole</string>
+    <string name="length">Länge</string>
+    <string name="password">Password</string>
+    <string name="generate">generate</string>
+    />
 </resources>

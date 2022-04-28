@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Password Generator</string>
-    <string name="icon_view">TODO</string> />
+    <string name="icon_view">TODO</string>
+    <string name="capital_letters">Capital letters</string>
+    <string name="lower_case_letters">Lower case letters</string>
+    <string name="numbers">Numbers</string>
+    <string name="symbols">Symbols</string>
+    <string name="length">Length</string>
+    <string name="password">Password</string>
+    <string name="default_length">10</string>
+    <string name="generate">generate</string>
+    />
 </resources>
