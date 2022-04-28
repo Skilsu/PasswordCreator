@@ -1,4 +1,4 @@
-<h1 align="center">Pasword Generator</h1>
+<h1 align="center">Password Generator</h1>
 
 ### GitHub Repository for a simple password generator.
 
