@@ -6,7 +6,7 @@
 
 - [Repository](https://github.com/Skilsu/PasswordCreator "Password Creator")
   
-## Programmiersprachen
+## Programming languages
 
  - Java
  - (xml)
